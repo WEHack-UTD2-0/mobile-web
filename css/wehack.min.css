@@ -15,6 +15,12 @@ p {
 a {
   color: #fed136;
 }
+z {
+  color: #fed136;
+  text-align:center;
+  font-size:14px;
+  background-color: #f8f9fa!important;
+}
 a:hover {
   color: #fec503;
 }

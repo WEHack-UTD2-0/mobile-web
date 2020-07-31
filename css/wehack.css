@@ -17,6 +17,13 @@ a {
   color: #fed136;
 }
 
+z {
+  color: #6c757d;
+  text-align:center;
+  font-size:10px;
+  background-color: #f8f9fa!important;
+}
+
 a:hover {
   color: #fec503;
 }
